@@ -63,7 +63,7 @@
 
 #if ENABLED(BLTOUCH)
   #ifndef SERVO0_PIN
-    #define SERVO0_PIN                        27
+    #define SERVO0_PIN                        29
   #endif
   #if SERVO0_PIN == BEEPER_PIN
     #undef BEEPER_PIN
