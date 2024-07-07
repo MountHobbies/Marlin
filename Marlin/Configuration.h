@@ -20,7 +20,7 @@
  *
  */
 #pragma once
-
+#define DIAG_JUMPERS_REMOVED
 #define CONFIG_EXAMPLES_DIR "Creality/Ender-3 Pro/BigTreeTech SKR Mini E3 3.0"
 
 /**
